@@ -1,6 +1,6 @@
 """
 ######################################################################
-Email With Ettachments Python Script
+Email With Attachments Python Script
 Coded By "The Intrigued Engineer" over a coffee
 Thanks For Watching!!!
 ######################################################################
