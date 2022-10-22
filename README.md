@@ -1,2 +1,5 @@
-# python_emails
-For sending emails using Python scripts
+######################################################################
+Simple Text Email Python Script
+Coded By "The Intrigued Engineer" over a coffee
+Thanks For Watching!!!
+######################################################################
